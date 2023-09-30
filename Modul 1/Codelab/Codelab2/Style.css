@@ -5,6 +5,7 @@ table, th, td {
 table {
     background-color: gold;   
     color: black;
+    border-collapse: separate;
 }
 
 td, th {
