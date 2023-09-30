@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Form HTML</title>
+    <style>
+      table,
+      td {
+        border: none;
+      }
+
+      td {
+        padding: 5px;
+      }
+
+      table {
+        float: left;
+      }
+    </style>
+  </head>
+  <body>
+    <form>
+      <table>
+        <tr>
+          <td><label for="nama">Nama</label></td>
+          <td><input type="text" id="nama" name="nama" required /></td>
+        </tr>
+        <tr>
+          <td><label for="nim">NIM</label></td>
+          <td><input type="number" id="nim" name="nim" required /></td>
+        </tr>
+        <tr>
+          <td><label for="tanggal">Tanggal</label></td>
+          <td><input type="date" id="tanggal" name="tanggal" required /></td>
+        </tr>
+        <tr>
+          <td><label for="alamat">Alamat</label></td>
+          <td>
+            <textarea
+              id="alamat"
+              name="alamat"
+              cols="21"
+              rows="5"
+              required
+            ></textarea>
+          </td>
+        </tr>
+        <tr>
+          <td></td>
+          <td><input type="submit" value="Simpan" /></td>
+        </tr>
+      </table>
+    </form>
+  </body>
+</html>
