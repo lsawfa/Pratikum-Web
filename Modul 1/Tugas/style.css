@@ -1,0 +1,27 @@
+#logo_navbar{
+    width: 70px;
+}
+
+#signup {
+    color: black; 
+    padding-left: 32px; 
+    padding-right: 32px; 
+    border: 1px solid black; 
+    border-radius: 12px"
+}
+
+#login {
+    color: white; 
+    background-color: #6a87ec; 
+    padding-left: 32px; 
+    padding-right: 32px; 
+    border-radius: 12px
+}
+
+#logofooter{
+    width: 200px;
+}
+
+.text-reset.text-decoration-none.mx-2 img {
+    width: 15px;
+}
