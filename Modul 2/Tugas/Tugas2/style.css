@@ -1,0 +1,70 @@
+.card-header  {
+    background-color: #007BFF;
+}
+
+.card-list {
+    background-color: #004fa3;
+}
+
+.card-header-title {
+    color: white;
+}
+
+.columns{
+    display: block;
+    align-items: center;
+}
+
+.card-footer-item{
+    width: 20px;
+}
+
+.buttons {
+    display: flex;
+}
+
+.button-action {
+    display: flex;
+    padding: 2px;
+}
+
+a {
+    background-color: #10bd13;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+#trash{
+    background-color: #f81a1a;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+#edit{
+    background-color: #fac022;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+#newSave {
+    background-color: #3f22fa;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+a:hover {
+    color: white!important;
+    font-weight: 800!important;
+}
+
+::placeholder{
+    color: black;
+}
+
+::-ms-input-placeholder { 
+    color: black;
+}
