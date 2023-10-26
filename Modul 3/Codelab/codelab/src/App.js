@@ -1,9 +1,7 @@
 import "./App.css";
 
-// react
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
-// pages
 import NotFound from "./Pages/NotFound";
 import HomePage from "./Pages/Home";
 import AboutPage from "./Pages/About";
