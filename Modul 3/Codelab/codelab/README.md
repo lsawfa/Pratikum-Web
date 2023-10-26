@@ -2,6 +2,7 @@
 
 ## Preview
 ### Codelab 1
+Live Demo Codelab 1: https://drive.google.com/file/d/1H_B_AKj-MFf24WtNsEw8dqqN_GIgjm_-/view?usp=sharing 
 ![Codelab1.png](https://raw.githubusercontent.com/lsawfa/Pratikum-Web/master/Modul%203/Codelab/codelab/preview%20codelab/Codelab1.png)
 ### Codelab 2
 ![Codelab2.png](https://raw.githubusercontent.com/lsawfa/Pratikum-Web/master/Modul%203/Codelab/codelab/preview%20codelab/Codelab2.png)
