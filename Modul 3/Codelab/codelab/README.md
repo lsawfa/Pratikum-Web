@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+## Preview
+### Codelab 1
+![Codelab1.png](https://raw.githubusercontent.com/lsawfa/Pratikum-Web/master/Modul%203/Codelab/codelab/preview%20codelab/Codelab1.png)
+### Codelab 2
+![Codelab2.png](https://raw.githubusercontent.com/lsawfa/Pratikum-Web/master/Modul%203/Codelab/codelab/preview%20codelab/Codelab2.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
