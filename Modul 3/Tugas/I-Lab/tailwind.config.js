@@ -1,0 +1,18 @@
+module.exports = {
+  content: ["./src/Pages/**/*.{js,ts,jsx,tsx,mdx}", "./src/Components/**/*.{js,ts,jsx,tsx,mdx}", "./src/app/**/*.{js,ts,jsx,tsx,mdx}"],
+  theme: {
+    extend: {
+      backgroundImage: {
+        "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
+        "gradient-conic": "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
+      },
+      colors: {
+        primary: "#40AD3E",
+        secondary: "#074C06",
+        login: "#6d85ec",
+        backgroundAbout: "#383838",
+      },
+    },
+  },
+  plugins: [],
+};
