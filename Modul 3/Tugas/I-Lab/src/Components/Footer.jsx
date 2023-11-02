@@ -88,7 +88,7 @@ function FooterComponent() {
             </p>
             <p>
               <a href="https://instagram.com/laryntsa" className="flex justify-start text-reset text-decoration-none">
-                <img src="/images/logo-instagram.png" style={customStyle} alt="Instagram" /> Facebook
+                <img src="/images/logo-instagram.png" style={customStyle} alt="Instagram" /> Instagram
               </a>
             </p>
           </div>
